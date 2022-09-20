@@ -32,8 +32,6 @@ Esse projeto foi desenvolvido durante a Next Level Week eSports da Rocketseat. F
   * Prisma
 
 ### 🔗 Projeto Online
-* [NLW eSports](https://linktr.ee/nlw_esports)
+* [NLW eSports]()
 
 &nbsp;
-
-<p align="center">Feito com 💙 por GBDev</p>
