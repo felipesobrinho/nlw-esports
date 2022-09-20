@@ -58,7 +58,8 @@ expo start
 ```
 
 ### 🔗 Projeto Online
+* [NLW eSports Web](https://duoesports.vercel.app/home)
 * [NLW eSports Mobile](https://expo.dev/@felipesobrinho/nlw-esports?serviceType=classic&distribution=exp)
-* [NLW eSports Web](https://nlw-esports-gbdev13.vercel.app/)
+
 
 &nbsp;
