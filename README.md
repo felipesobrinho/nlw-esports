@@ -30,6 +30,32 @@ Esse projeto foi desenvolvido durante a Next Level Week eSports da Rocketseat. F
   * Express
   * TypeScript
   * Prisma
+  
+## 🕹️ Como Utilizar
+Para rodar estas aplicações será necessário, primeiramente escolher a que deseja, entre elas:
+- WEB;
+- MOBILE.
+
+
+A aplicação "server" se integra com a "web" e a "mobile", realizando o Back-end. Caso queira rodar as aplicações basta utilizar os seguintes comandos:
+
+
+Rodando a aplicação web, primeiro iniciar o servidor e depois o próprio "web", ambos com o comando:
+```bash
+npm run dev
+```
+
+Rodando a aplicação mobile, primeiro iniciar o servidor e depois o próprio "mobile":
+#### Server
+```bash
+npm run dev
+```
+#### Mobile
+```bash
+expo start --tunnel
+ou
+expo start 
+```
 
 ### 🔗 Projeto Online
 * [NLW eSports Mobile](https://expo.dev/@felipesobrinho/nlw-esports?serviceType=classic&distribution=exp)
