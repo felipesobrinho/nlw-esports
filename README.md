@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido durante a Next Level Week eSports da Rocketseat. F
   * Prisma
 
 ### 🔗 Projeto Online
-* [NLW eSports]()
+* [NLW eSports Mobile](https://expo.dev/@felipesobrinho/nlw-esports?serviceType=classic&distribution=exp)
+* [NLW eSports Web]( )
 
 &nbsp;
