@@ -1,7 +1,10 @@
 {
   "name": "server",
-  "version": "1.0.0",
   "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.16.0"
+  },
   "main": "src/server.js",
   "scripts": {
     "build": "yarn migrate:deploy && tsc",
@@ -27,3 +30,4 @@
     "typescript": "^4.8.3"
   }
 }
+
